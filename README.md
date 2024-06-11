@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 # Probability-and-Statistics-Project
 
 1. Generate one population of more than 1000 elements having normal distribution with specific mean(𝜇) and variance(𝜎^2).

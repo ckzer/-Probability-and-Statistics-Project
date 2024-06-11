@@ -13,3 +13,5 @@
    • Assuming we don’t know the population variance but we know both are same
    • Assuming we don’t know the population variance
 5. Randomly sample 81 and 101 samples from two population respectively, and using sampling distribution, estimate the ratio of two variances between two population means (𝜎1^2/𝜎2^2) with 95% confidence interval.
+
+ㅎㅇ
